@@ -1,6 +1,6 @@
 # DL_CTR
 
-### 注：data文件夹用来存放文件，后续的DeepFM、FM等模型需要使用GBDT_LR文件夹内feature_engineer文件夹处理的特征矩阵。
+### 注：data文件夹用来存放特征矩阵，后续的DeepFM、FM等模型需要使用GBDT_LR文件夹内feature_engineer文件夹处理的特征矩阵。
   
   1、数据集下载：[科大讯飞初赛数据集下载](http://www.dcjingsai.com/common/cmpt/2018%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E8%90%A5%E9%94%80%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)
 

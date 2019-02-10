@@ -1,4 +1,4 @@
-Êı¾İ¼¯ÏÂÔØ£ºhttp://www.dcjingsai.com/common/cmpt/2018%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E8%90%A5%E9%94%80%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html
-»òÕßËÑ£º2018¿Æ´óÑ¶·ÉAIÓªÏúËã·¨´óÈü
+æ•°æ®é›†ä¸‹è½½ï¼š[ç§‘å¤§è®¯é£æ¯”èµ›æ•°æ®é›†ä¸‹è½½](http://www.dcjingsai.com/common/cmpt/2018%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9EAI%E8%90%A5%E9%94%80%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)
+æˆ–è€…æœï¼š2018ç§‘å¤§è®¯é£AIè¥é”€ç®—æ³•å¤§èµ›
 
-ÔËĞĞDeepFMÄ£ĞÍÊ±£¬ĞèÒªÏÈÔËĞĞGBDT_LRÎÄ¼şµÄfeature_engineeringÎÄ¼ş£¬²úÉúÌØÕ÷¾ØÕó£¬²¢ÓÃpickle±£´æ¡£
+è¿è¡ŒDeepFMæ¨¡å‹æ—¶ï¼Œéœ€è¦å…ˆè¿è¡ŒGBDT_LRæ–‡ä»¶çš„feature_engineeringæ–‡ä»¶ï¼Œäº§ç”Ÿç‰¹å¾çŸ©é˜µï¼Œå¹¶ç”¨pickleä¿å­˜ã€‚

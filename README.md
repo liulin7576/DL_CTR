@@ -12,3 +12,5 @@
   4、Deep & Cross Network(DCN)模型参考DeepFM，实现EarlyStopping、L2正则化、Dropout，详见DCN文件夹。
   
   5、Product-based Neural Networks(PNN)模型参考DeepFM，实现EarlyStopping、Dropout、inner-product和outer-product，通过use_inner参数来调用，详见PNN文件夹。
+  
+  6、Neural Factorization Machines(NFM)模型参考DeepFM，实现EarlyStopping、Dropout，详见NFM文件夹。

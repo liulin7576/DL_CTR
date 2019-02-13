@@ -16,3 +16,6 @@
   6、Neural Factorization Machines(NFM)模型参考DeepFM，实现EarlyStopping、Dropout，详见NFM文件夹。
 
   7、Attentional Factorization Machines(AFM)模型参考NFM，详见AFM文件夹。
+  
+  
+  注：NFM、DeepFM训练模型速度较快；

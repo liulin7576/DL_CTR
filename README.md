@@ -18,4 +18,4 @@
   7、Attentional Factorization Machines(AFM)模型参考NFM，详见AFM文件夹。
   
   
-  注：NFM、DeepFM训练模型速度较快；
+### 注：NFM、DeepFM训练模型速度较快；

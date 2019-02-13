@@ -10,3 +10,5 @@
   3、DeepFM模型参考[DeepFM参考链接](https://github.com/ChenglongChen/tensorflow-DeepFM)，其中FM模型的实现只需要将DeepFM中的Deep部分去掉即可实现。安利一个推荐系统的博客，[推荐系统博客](https://www.jianshu.com/p/6f1c2643d31b)。
   
   4、Deep & Cross Network(DCN)模型参考DeepFM，实现EarlyStopping、L2正则化、Dropout，详见DCN文件夹。
+  
+  5、Product-based Neural Networks(PNN)模型参考DeepFM，实现EarlyStopping、Dropout、inner-product和outer-product，通过use_inner参数来调用，详见PNN文件夹。
